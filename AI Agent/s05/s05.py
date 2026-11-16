@@ -64,7 +64,7 @@ TODO = TodoManager()
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_USER = "admin"
-DB_PASSWORD = "abc@123"
+DB_PASSWORD = "xxxxx"
 DB_NAME = "test_data"
 # ==========================================
 # 3. 安全防线与底层工具函数
