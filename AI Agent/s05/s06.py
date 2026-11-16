@@ -44,7 +44,7 @@ TODO = TodoManager()
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_USER = "admin"
-DB_PASSWORD = "abc@123"
+DB_PASSWORD = "xxxxxx"
 DB_NAME = "test_data"
 # =====================================================================
 # 2. 系统提示词（System Prompt：规范 AI 的人设与行为准则）
